@@ -1,8 +1,21 @@
 ---
 Layout: Post
-Title: Hello World (using Markdown and Jekyll)
+Title: Hello World
 ---
 {{page.title}}
 ===
-This is a test of using Markdown to generate HTML and Jekyll to actually render the site.  
- It is used by Github Pages, where this particular blog happens to live.
+##Welcome to oldboneorchard.com. ##
+![old bone orchard logo](images/obo_logo.jpg)
+This is a modern country band project.  
+
+We are shooting for things along the lines of Little Big Town, Eric Church, etc.
+
+Instrumentation will be:
+* Bass
+* Drums
+* Guitar
+* Electric Guitar
+* Keyboard
+* Mandolin/Ukulele. 
+——————
+For booking info, please contact [24thbay](http://www.24thbay.com) at 850-583-0842 or [brian@24thbay.com](mailto:brian@24thbay.com).
