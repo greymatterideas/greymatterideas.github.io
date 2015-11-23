@@ -6,9 +6,8 @@ Title: Welcome to old bone orchard
 ===
 ![old bone orchard logo](/images/obo_logo.png)
   
-This is a modern country-rock band project.  
+This is an Americana music project.  
 
-We are shooting for things along the lines of Little Big Town, Eric Church, Luke Bryan etc.
 
 Instrumentation will be:
 
