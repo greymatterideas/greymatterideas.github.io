@@ -1,3 +1,5 @@
 name: Old Bone Orchard
-markdown: redcarpet
-pygments: true
+#markdown: redcarpet
+markdown: kramdown
+#pygments: true
+rouge: true
