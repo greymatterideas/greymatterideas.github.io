@@ -1,10 +1,10 @@
 ---
 Layout: Post
-Title: Welcome to old bone orchard
+Title: Welcome to Texar Drive
 ---
 {{page.title}}
 ===
-![old bone orchard logo](/images/obo_logo.png)
+![Texar Drive logo](/images/texar_drive.png)
   
 This is an Americana music project.  
 
